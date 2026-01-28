@@ -1,0 +1,4 @@
+---
+collections:
+  - name: ovirt.ovirt
+    src: https://aap-hub-aap.apps.ingtondemodn.com/api/galaxy
